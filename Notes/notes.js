@@ -245,3 +245,17 @@
 //      const payload  = await request.json()
 //      console.log(payload)
 // }
+
+
+// Catch all api routes 
+// src/app/api/[...user]/route.js
+
+
+// Use mongoose
+// npm i mongoose
+// Connect mongoose in api folder in route.js file
+// And for model we can difine any where 
+
+
+// Redux toolkit
+// npm intall @reduxjs/toolkit react-redux
